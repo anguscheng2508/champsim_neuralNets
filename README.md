@@ -1,6 +1,6 @@
 # ChampSim Neural Nets
 
-This repository is my barebones progress of developing neural networks for use with ChampSim simulations. It was developed as part of my final year project for my 4th year. The aim is to develop efficient neural network architectures to be used for prefetching. I have only performed preliminary 'offline' testing, where the input data for the neural networks are readily prepared. The goal is to build 'online' architectures, where the neural network is performing predictions and training 'on-board' while the CPU is running. 
+This repository is my barebones progress of developing neural networks for use with ChampSim simulations. I made this repo to assist the open-source community. It was developed as part of my final year project for my 4th year. The aim is to develop efficient neural network architectures to be used for prefetching. I have only performed preliminary 'offline' testing, where the input data for the neural networks are readily prepared. The goal is to build 'online' architectures, where the neural network is performing predictions and training 'on-board' while the CPU is running. 
 
 
 ## Information
@@ -14,5 +14,5 @@ The 'nn' folder contains a simple neural network architecture for offline testin
 
 The 'rnn' folder contains a preliminary recurrent neural network architecture for testing.
 
-
+I hope this repository will aid those who come across this!
 Feel free to contact my email: chenga@tcd.ie for any additional information/feedback.
