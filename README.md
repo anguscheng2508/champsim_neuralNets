@@ -13,3 +13,5 @@ The 'Champsim' folder contains the necessary files to compile and build the Cham
 The 'nn' folder contains a simple neural network architecture for offline testing.
 
 The 'rnn' folder contains a preliminary recurrent neural network architecture for testing.
+
+Feel free to contact my email: 'chenga@tcd.ie' for any additional information/feedback.
