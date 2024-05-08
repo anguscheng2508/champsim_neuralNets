@@ -14,4 +14,5 @@ The 'nn' folder contains a simple neural network architecture for offline testin
 
 The 'rnn' folder contains a preliminary recurrent neural network architecture for testing.
 
+
 Feel free to contact my email: chenga@tcd.ie for any additional information/feedback.
